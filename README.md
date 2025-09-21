@@ -1,3 +1,1 @@
-# clox
-
-Implementing the bytecode interpreter version of the lox language from [Crafting Interpreters](https://craftinginterpreters.com).
+An implementation of the Lox programming language from [Crafting Interpreters](https://craftinginterpreters.com). The implementation is a bytecode interpreter written in C.
